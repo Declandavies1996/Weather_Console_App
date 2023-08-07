@@ -1,4 +1,4 @@
-Weather Console Application using OpenWeather API
+#Weather Console Application using OpenWeather API
 This project is a simple weather console application built using Python and the OpenWeatherMap API. By developing this application, you will have learned several fundamental Python concepts and gained practical experience in working with external APIs and handling JSON data.
 
 Python Concepts Learned:
