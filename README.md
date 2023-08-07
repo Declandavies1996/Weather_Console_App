@@ -20,7 +20,7 @@ Obtain an API Key: Sign up on the OpenWeatherMap website to acquire an API key. 
 Run the Application: Execute the Python script in a terminal or command prompt. You'll be prompted to enter the name of a city. After providing the city name, the application will fetch and display the current weather details using the OpenWeatherMap API.
 
 Learning Outcomes
-By engaging with this project, you'll achieve the following learning outcomes:
+By engaging with this project, I achieved the following learning outcomes:
 
 API Key Integration: Learn how to securely integrate an API key into your Python code to authenticate API requests.
 
@@ -35,10 +35,4 @@ User Interaction: Discover how to interact with users by collecting input and pr
 Conditional Statements: Develop skills in implementing conditional statements to make decisions based on API response data.
 
 Data Display: Learn how to format and display retrieved data in a user-friendly manner using print statements and string formatting.
-
-Next Steps
-Upon completing this project, you'll be well-equipped to explore more advanced projects and concepts related to API integration, data manipulation, and building interactive applications using Python. Consider expanding your knowledge by working on projects that involve data visualization, database integration, and web application development. Happy coding!
-
-## Next Steps
-
-Upon completing this project, you'll be well-equipped to explore more advanced projects and concepts related to API integration, data manipulation, and building interactive applications using Python. Consider expanding your knowledge by working on projects that involve data visualization, database integration, and web application development. Happy coding!
+integration, and web application development. 
